@@ -20,7 +20,7 @@ Currently exploring how to apply **machine learning** and **data science** to so
 - Generative AI
 
 ### ✨ Fun fact:
-I love turning data into insights and building AI models that actually work 🚀.
+I love cats.
 
 ---
 
