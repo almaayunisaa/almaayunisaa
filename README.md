@@ -11,7 +11,7 @@ Currently exploring how to apply **machine learning** and **data science** to so
 
 ### 🛠️ Tech Stack:
 - **Languages:** Python
-- **Libraries/Frameworks:** pandas, scikit-learn, matplotlib, seaborn, numpy, networkX, and sciPy
+- **Libraries/Frameworks:** pandas, scikit-learn, matplotlib, seaborn, numpy, networkX, TensorFlow, dan PyTorch
 - **Tools:** Jupyter Notebook, Git, VSCode
 
 ### 🌱 Currently learning:
