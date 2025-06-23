@@ -16,8 +16,8 @@ Currently exploring how to apply **machine learning** and **data science** to so
 
 ### 🌱 Currently learning:
 - Deep learning (TensorFlow, Keras)
-- NLP
-- Generative AI
+- Image Processing
+- Computer Vision
 
 ### ✨ Fun fact:
 I love cats.
