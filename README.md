@@ -1,23 +1,21 @@
-# Hi there, I'm a Data Scientist 👋
+# Hi there, I'm an AI Engineer
 
-I love building **AI-powered** and **data-driven** projects 🚀.  
-Currently exploring how to apply **machine learning** and **data science** to solve real-world problems.
+Currently exploring how to apply **deep learning** and **transfer learning** into medical fields.
 
-### ⚡ What I’ve been building:
-- 🏷️ **KNN-based Auction Verification System** → built from scratch using Python & pandas
-- 🏦 **Deposit Classification** → stacking ensemble model with XGBoost & Random Forest
-- 📉 **Linear Regression-Based Stock Depletion Prediction** → for mobile & web apps
-- 🌫️ **Fuzzy Logic-Based Health Risk Prediction** → using U.S. Pollution Dataset (AQI, SO₂, O₃, NO₂, CO)
+### What I’ve been building:
+- **Alzheimer’s Disease Image Classification** → A Keras-based convolutional neural network pipeline for multi-class classification of Alzheimer’s-related brain images with up to 90% accuracy.
+- **Halodoc App Review Sentiment Analysis Classification** → With three sentiment classes (positive, negative, neutral), the MLP model with TF-IDF achieved the highest accuracy of 92%.
+- **Bank Customers Habits Clustering and Classification** → Two-stage machine learning pipeline on bank transaction data: unsupervised clustering (KMeans + PCA) followed by supervised classification (Decision Tree, KNN, Random Forest)
 
-### 🛠️ Tech Stack:
+### Tech Stack:
 - **Languages:** Python
-- **Libraries/Frameworks:** pandas, scikit-learn, matplotlib, seaborn, numpy, networkX, TensorFlow, dan PyTorch
-- **Tools:** Jupyter Notebook, Git, VSCode
+- **Libraries/Frameworks:** pandas, scikit-learn, matplotlib, seaborn, numpy, networkX, **TensorFlow**, dan **PyTorch**
+- **Tools:** Jupyter Notebook, Git, VSCode, Docker, Azure, MLFlow, Grafana, Prometheus 
 
-### 🌱 Currently learning:
-- Deep learning (TensorFlow, Keras)
-- Image Processing
-- Computer Vision
+### Currently learning:
+- Transfer Learning
+- Image Pre Processing for Medical Image
+- Computer Vision for Medical Image
 
 ### ✨ Fun fact:
 I love cats.
